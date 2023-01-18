@@ -1,16 +1,15 @@
-### Hi there 👋
+Header
 
-<!--
-**Jornipam/Jornipam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+### Tools
+![YouTrack](https://img.shields.io/badge/-YouTrack-9370DB?style=for-the-badge&logo=youtrack)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-%23316192.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
+![Testing_Theory](https://img.shields.io/badge/-Testing_Theory-090909?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Chrome Devtools](https://img.shields.io/badge/Chrome_Devtools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+
