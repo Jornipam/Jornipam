@@ -9,6 +9,7 @@ About me
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23316192.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome Devtools](https://img.shields.io/badge/Chrome_Devtools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+[Charles proxy](https://img.shields.io/badge/Charles_proxy-4285F4?style=for-the-badge&logo=Charles&logoColor=white)
 ![Testing_Theory](https://img.shields.io/badge/-Testing_Theory-090909?style=for-the-badge)
 
 ### Connect with me:
